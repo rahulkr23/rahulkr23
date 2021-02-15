@@ -1,7 +1,5 @@
 ### Hi there 👋, Rahul kumar
 #### I am passionate about Full Stack Web development
-![I am passionate about Full Stack Web development](https://drive.google.com/file/d/1PIRWTDhnpwEp-wC4I9URFhbxC8vnJW9z/view?usp=sharing)
-
 I am dynamic in nature, looking forward to explore new challenge, aim at flexible working in any field irrespective of my domain.
 
 Skills: HTML & CSS , Bootstrap , Javascript , React js , Node js , Express , Pug Php , Sql , Mongodb
