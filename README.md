@@ -1,6 +1,6 @@
 ### Hi there 👋, Rahul kumar
 #### I am passionate about Full Stack Web development
-![I am passionate about Full Stack Web development]
+![I am passionate about Full Stack Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am dynamic in nature, looking forward to explore new challenge, aim at flexible working in any field irrespective of my domain.
 
@@ -15,7 +15,4 @@ Skills: HTML & CSS , Bootstrap , Javascript , React js , Node js , Express , Pug
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkr23&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rahulkr23)  
-
 ![Profile views](https://gpvc.arturio.dev/rahulkr23)  
-
