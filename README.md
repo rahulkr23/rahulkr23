@@ -13,7 +13,7 @@ Skills: Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Expres
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulkr23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkr23)
-[![Twitter](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://twitter.com/@rahulwhy23)
+[![Twitter](https://img.shields.io/badge/-twitter-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://twitter.com/@rahulwhy23)
   
 
 
