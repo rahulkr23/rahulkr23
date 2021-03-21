@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rahul kumar
+### Hi there 👋, I am Rahul kumar🎓😊 
 #### I am passionate about Full Stack Web development.
 ![I am passionate about Full Stack Web development.](https://pbs.twimg.com/profile_banners/1341616543566712832/1615440049/600x200)
 
@@ -6,7 +6,8 @@ I am dynamic in nature , looking forward to explore new challenges , at flexible
 
 Skills: Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Express.js , Django , PHP , SQL , Mongodb.
 
-- 🔭 I’m currently working on:- Personal Project🖥 
+**- 🔭 I’m currently working on:-** 
+           Personal Project🖥 
 
 **- 📫 How to reach me: ...**
  #### 💌Mail me [rahulwhy23@gmail.com]()
