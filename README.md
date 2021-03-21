@@ -1,4 +1,4 @@
-### Hey 👋, I am Rahul kumar🎓😊 
+### Hey 👋, I Am Rahul kumar🎓😊 
 #### I Am Passionate About Full Stack Web Development.
 ![I Am Passionate About Full Stack Web Development.](https://pbs.twimg.com/profile_banners/1341616543566712832/1615440049/600x200)
 
