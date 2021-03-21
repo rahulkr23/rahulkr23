@@ -1,10 +1,11 @@
-### Hi there 👋, I am Rahul kumar🎓😊 
+### Hey 👋, I am Rahul kumar🎓😊 
 #### I am passionate about Full Stack Web development.
-![I am passionate about Full Stack Web development.](https://pbs.twimg.com/profile_banners/1341616543566712832/1615440049/600x200)
+![I Am Passionate About Full Stack Web Development.](https://pbs.twimg.com/profile_banners/1341616543566712832/1615440049/600x200)
 
-I am dynamic in nature , looking forward to explore new challenges , at flexible working in any field irrespective of my domain.
+"I am dynamic in nature , looking forward to explore new challenges , at flexible working in any field irrespective of my domain"
 
-Skills: Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Express.js , Django , PHP , SQL , Mongodb.
+**Skills:-** 
+Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Express.js , Django , PHP , SQL , Mongodb.
 
 **- 🔭 I’m currently working on:-** 
            Personal Project🖥 
@@ -13,11 +14,13 @@ Skills: Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Expres
  #### 💌Mail me [rahulwhy23@gmail.com]()
 
 
-
+# Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulkr23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkr23)
 [![Twitter](https://img.shields.io/badge/-twitter-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://twitter.com/@rahulwhy23)
-  
+
+
+
 
 
 
