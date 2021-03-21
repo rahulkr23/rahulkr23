@@ -5,7 +5,7 @@
 "I am dynamic in nature , looking forward to explore new challenges , at flexible working in any field irrespective of my domain"
 
 **Skills:-** 
-Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Express.js , Django , PHP , SQL , Mongodb.
+HTML&CSS || Bootstrap || Javascript || React Js || Jquery || Node js || Express || Python || Django || Php || Sql || MongoDB.
 
 **- 🔭 I’m currently working on:-** 
            Personal Project🖥 
