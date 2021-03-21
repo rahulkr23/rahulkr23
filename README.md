@@ -18,6 +18,6 @@ Skills: Python , HTML&CSS , Bootstrap , Javascript , React.js , Node.js , Expres
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkr23&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkr23&show_icons=true&theme=tokyonight)  
 
 ![Profile views](https://gpvc.arturio.dev/rahulkr23)  
